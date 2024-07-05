@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshdoshi1" alt="harshdoshi1" /></a> </p>
 
-- 🔭 I’m currently working on **Internship at microsoft.**
+- 🔭 Ex Intern **Softrefine Technology Pvt Ltd.**
 
 - 🌱 I’m currently learning **node.js , reacts**
 

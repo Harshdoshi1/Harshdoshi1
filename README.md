@@ -1,57 +1,98 @@
-<h1 align="center">Hi 👋, I'm Harsh Doshi.</h1>
-<h3 align="center">A passionate Web and App developer from India.</h3>
+<h1 align="center">Hi 👋, I'm Harsh Doshi</h1>
+<h3 align="center">💻 Full Stack Developer | 🚀 Flutter Enthusiast | 🔥 JavaScript Lover</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=harshdoshi1&label=Profile%20views&color=0e75b6&style=flat" alt="harshdoshi1" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F7FF&vCenter=true&center=true&width=450&lines=React+%2F+Node.js+%2F+Flutter;Frontend+%7C+Backend+%7C+App+Dev;Building+cool+things+every+day!" alt="Typing SVG" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=harshdoshi1" alt="harshdoshi1" />
-  </a>
-</p>
+---
 
-- 🔭 Ex Intern **Softrefine Technology Pvt Ltd.**  
-- 🌱 I’m currently learning **node.js , reacts**  
-- 💬 Ask me about **Js, node.js , reacts.**
+### 📬 Connect With Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/harsh-doshi-4a840b24a/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshdoshi1" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/harsh_doshi_1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh_doshi_1" height="30" width="40" />
+  <a href="https://instagram.com/harsh_doshi_1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:harshdoshi.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<!-- 🔧 Add your tech icons here -->
-<!-- Example below -->
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <!-- Add the rest of your tech icons below -->
+### 🧠 About Me
+
+- 💼 Ex Intern @ **Softrefine Technology Pvt Ltd.**
+- 🛠️ Currently learning **React, Node.js, Flutter, Firebase**
+- 📱 Passionate about building full-stack products & mobile apps
+- 💬 Ask me about **JS, App Dev, UI/UX & Backend APIs**
+- 🚀 Always exploring new technologies & challenges
+
+---
+
+### ⚒️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,flutter,firebase,html,css,php,mysql,py,git,github,vscode&theme=dark" />
 </p>
 
-<hr/>
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-  <img width="412" src="https://github-readme-streak-stats.herokuapp.com/?user=harshdoshi1&" alt="harshdoshi1" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=harshdoshi1&show_icons=true&locale=en" alt="harshdoshi1" />
-  <br/>
-  <img width="375" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshdoshi1&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+### 🏆 GitHub Trophies
 
-<br/><br/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshdoshi1&theme=algolia&margin-w=10&no-frame=true" />
+</p>
 
-<hr/>
+---
 
-<h2 align="center">🐍 Watch the snake eating my contributions 🐍</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/harshdoshi1/harshdoshi1/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+### 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github-readme-stats.vercel.app/api?username=harshdoshi1&show_icons=true&theme=radical&count_private=true&hide=issues" height="200px"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshdoshi1&theme=radical" height="200px"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdoshi1&layout=compact&langs_count=6&theme=radical" height="200px"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🟩 GitHub Contribution Heatmap
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00FF00/harshdoshi1" alt="GitHub heatmap" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| 🔧 Project                        | 🌟 Description |
+|----------------------------------|----------------|
+| 🎓 **Student Evaluation System** | Full-stack tracker of academic & co-curricular progress |
+| 📱 **ICT Department App**        | Flutter app for college students (events, resources, alerts) |
+| 🧾 **Resume Builder (AWT)**      | Java desktop app to auto-generate resumes |
+| 🎬 **MovieLens AI Recommender**  | Python-based comparison of KNN, NMF, SVD |
+
+---
+
+### 👁️ Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshdoshi1&style=flat-square&color=00ffdd" alt="visitor count"/>
+</p>
+
+---
+
+> ⚡ “Stay consistent. Stay curious. Code like no one’s watching.”  
+> — *Harsh Doshi*

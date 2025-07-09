@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Doshi</h1>
-<h3 align="center">💻 Full Stack Developer | 🚀 Flutter Enthusiast | 🔥 JavaScript Lover</h3>
+<h3 align="center">💻 Full Stack Developer | 🚀 Flutter Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F7FF&vCenter=true&center=true&width=450&lines=React+%2F+Node.js+%2F+Flutter;Frontend+%7C+Backend+%7C+App+Dev;Building+cool+things+every+day!" alt="Typing SVG" />
@@ -44,7 +44,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshdoshi1&theme=algolia&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harshdoshi1&theme=algolia&margin-w=10&no-frame=true&no-bg=true&title=MultiLanguage,Commits,Stars,Repositories,Followers" />
 </p>
 
 ---
@@ -67,14 +67,6 @@
 
 ---
 
-### 🟩 GitHub Contribution Heatmap
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00FF00/harshdoshi1" alt="GitHub heatmap" />
-</p>
-
----
-
 ### 📌 Featured Projects
 
 | 🔧 Project                        | 🌟 Description |
@@ -82,14 +74,13 @@
 | 🎓 **Student Evaluation System** | Full-stack tracker of academic & co-curricular progress |
 | 📱 **ICT Department App**        | Flutter app for college students (events, resources, alerts) |
 | 🧾 **Resume Builder (AWT)**      | Java desktop app to auto-generate resumes |
-| 🎬 **MovieLens AI Recommender**  | Python-based comparison of KNN, NMF, SVD |
 
 ---
 
 ### 👁️ Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshdoshi1&style=flat-square&color=00ffdd" alt="visitor count"/>
+  <img src="https://komarev.com/ghpvc/?username=harshdoshi1&label=Profile%20Views&color=000000&style=flat-square" alt="visitor count"/>
 </p>
 
 ---

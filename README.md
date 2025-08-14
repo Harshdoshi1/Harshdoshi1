@@ -13,9 +13,9 @@
   <a href="https://linkedin.com/in/harsh-doshi-4a840b24a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/harsh_doshi_1" target="_blank">
+<!--   <a href="https://instagram.com/harsh_doshi_1" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  </a> -->
   <a href="mailto:harshdoshi.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>

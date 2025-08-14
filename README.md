@@ -73,7 +73,7 @@
 |----------------------------------|----------------|
 | 🎓 **Student Evaluation System** | Full-stack tracker of academic & co-curricular progress |
 | 📱 **ICT Department App**        | Flutter app for college students (events, resources, alerts) |
-| 🧾 **Resume Builder (AWT)**      | Java desktop app to auto-generate resumes |
+| 🧾 **Resume Builder**      | Webstite that helps to auto-generate resumes |
 
 ---
 

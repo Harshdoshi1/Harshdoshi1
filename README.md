@@ -16,7 +16,7 @@
 <!--   <a href="https://instagram.com/harsh_doshi_1" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a> -->
-  <a href="mailto:harshdoshi.dev@gmail.com" target="_blank">
+  <a href="mailto:harshdoshiyt02@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>

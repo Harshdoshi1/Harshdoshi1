@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Doshi</h1>
-<h3 align="center">💻 Full Stack Developer | 🚀 Flutter Enthusiast</h3>
+<h3 align="center">💻 Full Stack Web Developer | 🚀 App Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F7FF&vCenter=true&center=true&width=450&lines=React+%2F+Node.js+%2F+Flutter;Frontend+%7C+Backend+%7C+App+Dev;Building+cool+things+every+day!" alt="Typing SVG" />

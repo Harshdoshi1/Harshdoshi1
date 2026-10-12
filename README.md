@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full Stack Web Developer | 🚀 App Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F7FF&vCenter=true&center=true&width=450&lines=React+%2F+Node.js+%2F+Flutter;Frontend+%7C+Backend+%7C+App+Dev;Building+cool+things+every+day!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F7FF&vCenter=true&center=true&width=450&lines=.Net+%2F+Mern+%2F+Flutter;Frontend+%7C+Backend+%7C+App+Dev;Building+cool+things+every+day!" alt="Typing SVG" />
 </p>
 
 ---
